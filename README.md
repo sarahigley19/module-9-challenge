@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 09 Node.js Challenge: Professional README Generator
 
 ## Your Task
@@ -121,3 +122,6 @@ You are required to submit the following for review:
 ---
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# module-9-challenge
+>>>>>>> 93a06572644a8899666dd6ef39ec4772f105f2ee
