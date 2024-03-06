@@ -32,3 +32,6 @@ Me and ChatGPT
 Yes, many times before this video was recorded.
 ## Questions
 Please send your questions [here](mailto:sarah.higley19@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/sarahigley19](https://github.com/sarahigley19).
+
+## Watch the Video Walkthrough
+https://www.youtube.com/watch?v=eaNAm16ug-k
